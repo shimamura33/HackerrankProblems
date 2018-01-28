@@ -1,8 +1,11 @@
 # Minion game
+
 # Input: single line of input containing the string S that contain only uppercase letters: [A-Z]
+
 # Stuart has to make words starting with consonants.
 # Kevin has to make words starting with vowels. 
 # The game ends when both players have made all possible substrings. 
+
 # Output: the name of the winner and their score separated by a space. print "Draw" if draw
 
 # Optimization step: for a the substrings that start with s[i] are all scored to the same person, 
